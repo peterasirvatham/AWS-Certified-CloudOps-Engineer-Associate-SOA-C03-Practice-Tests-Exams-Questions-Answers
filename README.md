@@ -1513,8 +1513,8 @@ Configure the rule to invoke an AWS Lambda function to enable CloudTrail.
 ### A root account owner has given full access of his S3 bucket to one of the IAM users using the bucket `ACL`. When the IAM user logs in to the S3 console, which actions can he perform?
 
 - [ ] He can just view the content of the bucket.
-- [ ] He can do all the operations on the bucket.
-- [x] It is not possible to give access to an IAM user using `ACL`.
+- [x] He can do all the operations on the bucket.
+- [ ] It is not possible to give access to an IAM user using `ACL`.
 - [ ] The IAM user can perform all operations on the bucket using only API/SDK.
 
 **[⬆ Back to Top](#table-of-contents)**
